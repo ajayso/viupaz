@@ -11,4 +11,9 @@ Stack Installed...
 For details look at https://docs.google.com/document/d/114WUi-Zb7URuNBmsodV5tG0LdyD32fFJNyfXOtchpwc/edit
 
 
+Data Flow 
+
+Historical Flow
+Get all data and store in Azure Data Factory
+Cannot Azure Data Factory its available only in US n Eur regions
 
